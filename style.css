@@ -22,12 +22,16 @@
 .entrada{
     border: gray 2px solid;
     border-radius: 50px;
-    display: flex;
     width: 400px;
-    justify-content: center;
+    /*justify-content: center;*/
 }
 
 #Enlaces-Google{
     text-align: left;
     margin-top: 230px; 
+}
+
+.Div-form{
+    display: flex;
+    justify-content: center;
 }
